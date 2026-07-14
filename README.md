@@ -20,7 +20,7 @@ This gallery is a mix of app types:
 
 You can contribute to this gallery in two ways:
 
-1. **Submit your own creation** – If you built an Android app, web wrapper, or tool that runs on older devices, you can submit it to the gallery.
+1. **Submit your own creation** – If you built an Android app, web wrapper, or tool that also runs on older devices, you can submit it to the gallery.
 2. **Suggest an app** – If you found a great app that isn't listed here, open an issue with the details.
 
 New submissions will appear at the top of the gallery with a **"NEW"** badge for 3 days, giving them a temporary spotlight.
